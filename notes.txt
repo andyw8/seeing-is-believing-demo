@@ -1,0 +1,14 @@
+https://github.com/JoshCheek/seeing_is_believing
+
+https://marketplace.visualstudio.com/items?itemName=brandoncc.vscode-seeing-is-believing
+
+New release to support Apple Silicon (M1) Macs
+https://github.com/JoshCheek/seeing_is_believing/issues/168
+
+https://github.com/andyw8/seeing_is_believing
+
+https://www.reddit.com/r/ruby/comments/vemgav/rstfilter_vscode_extension_for_your_new_ruby/
+
+https://github.com/ko1/rstfilter
+
+https://github.com/ko1/rstfilter/pulls?q=is%3Apr+is%3Aclosed
