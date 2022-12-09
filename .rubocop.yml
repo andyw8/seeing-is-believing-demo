@@ -23,3 +23,6 @@ Minitest/MultipleAssertions:
 
 Style/IfInsideElse:
   Enabled: false
+
+Layout/ExtraSpacing:
+  Enabled: false
